@@ -1,4 +1,4 @@
-# DataDialog
+# CHATDB_OPENAI
 
 **This application will give you a chat interface to gather insights on your own enterprise data & visualize them effectively, Simply ask Questions in plain English. The dataset used is airbnb.**
 
@@ -40,7 +40,7 @@
 
 ## To run application on your local server
 ```commandline
-[git clone [https://github.com/adithyaboyapati/CHATDB_OPENAI]]
+git clone https://github.com/adithyaboyapati/CHATDB_OPENAI
 ```
 Make sure you run the below commands in virtual environment..
 ```commandline
