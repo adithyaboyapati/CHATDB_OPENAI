@@ -40,7 +40,7 @@
 
 ## To run application on your local server
 ```commandline
-git clone https://github.com/nxtwave-tech/DataDialog/
+[git clone [https://github.com/adithyaboyapati/CHATDB_OPENAI]]
 ```
 Make sure you run the below commands in virtual environment..
 ```commandline
